@@ -39,6 +39,7 @@
 * Speed of reads/writes
 * Scaling
 * Reliability
+* Resiliency
 * In Memory vs Persistence vs Distributed.
 * CAP (Consistency, Availability, Partitioning) Theorem
 
@@ -61,9 +62,13 @@
 	* Handling complex relational information.
 	* Modelling and Handling 
 * Search Engine: `ElasticSearch`
+	* Query: Structured, Unstructured, Geo, Metric
+	* Analyze: Aggregate operations
+	* Speed: Fast 
+	* Scalable.
+	* Flexibility.
 * Time Series: `Prometheus`
-* RDF:
-* Event: 
+	* 
 
 ## Application
 

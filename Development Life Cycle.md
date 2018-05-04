@@ -68,25 +68,6 @@
 ## Application
 
 ### Client Server Architecture
-
+### Microservices
 ### Backend
-
 ### Frontend
-
-
-
-
-
-## Networking & Content Delivery
-
-## Developer Tools
-
-## Management Tools
-
-## Machine Learning
-
-## Analytics
-
-## Compute
-
-## Storage

@@ -73,7 +73,7 @@
 ## Application
 
 ### Client Server Architecture
-### Microservices
+### Microservice
 ### Backend
 ### Frontend
 
